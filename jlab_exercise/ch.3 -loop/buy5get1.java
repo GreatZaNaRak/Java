@@ -4,7 +4,7 @@ public class Buy5Get1 {
   
   public static void main(String[] args) {
     Scanner kb = new Scanner(System.in).useDelimiter("\\s*[,\\s]\\s*");
-    System.out.print("ÃÒ¤ÒÊÔ¹¤éÒ·Ñé§Ë¡ = ");
+    System.out.print("ราคาสินค้าทั้งหก = ");
     double a1 = kb.nextDouble();
     double a2 = kb.nextDouble();
     double a3 = kb.nextDouble();
