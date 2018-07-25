@@ -36,4 +36,4 @@ public class SecondMax {
     else
       System.out.println("จำนวนที่มากสุดเป็นอันดับสอง = "+finalr);
   }
-
+}
